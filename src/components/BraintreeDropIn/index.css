@@ -1,0 +1,10 @@
+.braintreePayButton {
+    margin-left: auto;
+    display: flex;
+}
+
+#braintree-drop-in-div {
+    min-height: 150px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
